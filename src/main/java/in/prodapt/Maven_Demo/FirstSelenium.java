@@ -17,7 +17,7 @@ public class FirstSelenium {
 
 		// print the current url of webpage
 		System.out.println(driver.getCurrentUrl());
-
+		System.out.println("HI");
 		// close the driver execution complete
 		driver.close();
 
